@@ -1,0 +1,25 @@
+_repo: Romanticismo_65488
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rovetta, Gerolamo
+    birthdate: 1854
+    deathdate: 1910
+    gutenberg_agent_id: '3997'
+    url: http://www.gutenberg.org/2009/agents/3997
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gerolamo_Rovetta
+    - https://it.wikipedia.org/wiki/Gerolamo_Rovetta
+description: ''
+gutenberg_issued: '2021-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65488'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Romanticismo
+url: http://www.gutenberg.org/ebooks/65488
