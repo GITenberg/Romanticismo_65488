@@ -1,5 +1,8 @@
 _repo: Romanticismo_65488
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65488-h/images/cover.jpg
 creator:
   author:
     agent_name: Rovetta, Gerolamo
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gerolamo_Rovetta
     - https://it.wikipedia.org/wiki/Gerolamo_Rovetta
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65488#Romanticismo
 gutenberg_issued: '2021-06-01'
 gutenberg_type: Text
 identifiers:
